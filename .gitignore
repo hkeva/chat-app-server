@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
